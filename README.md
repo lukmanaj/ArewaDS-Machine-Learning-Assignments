@@ -7,7 +7,7 @@ The breakdown of the concepts covered by week is as follows:
 |---|---|
 |1|[Introduction to Machine Learning](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/blob/main/week_01/week_01_summary.md)|
 |2|[Working with data](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_02)|
-|3|Data Visualization|
+|3|[Data Visualization](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_03)|
 |4|Regression|
 |5|Classification|
 |6|Clustering|
