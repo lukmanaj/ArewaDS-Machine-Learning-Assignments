@@ -1,0 +1,1410 @@
+[
+ {
+  "letter_num":1,
+  "from":"Aminu Aliyu",
+  "to":"Imran Aliyu",
+  "date":"02\/02\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":2,
+  "from":"Hauwa Bashir",
+  "to":"Abdulrahman Aminu",
+  "date":"03\/02\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":3,
+  "from":"Hauwa Bashir",
+  "to":"Nuhu Bashir",
+  "date":"04\/02\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":4,
+  "from":"Abdulrahman Aminu",
+  "to":"Rashidat Bashir",
+  "date":"05\/02\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":5,
+  "from":"Abdulhakeem Aminu",
+  "to":"Rashidat Bashir",
+  "date":"06\/02\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":6,
+  "from":"Hassana Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"07\/02\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":7,
+  "from":"Lukman Aliyu",
+  "to":"Nuhu Bashir",
+  "date":"08\/02\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":8,
+  "from":"Nuhu Bashir",
+  "to":"Imran Aliyu",
+  "date":"09\/02\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":9,
+  "from":"Abdulhakeem Aminu",
+  "to":"Imran Aliyu",
+  "date":"10\/02\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":10,
+  "from":"Rashidat Bashir",
+  "to":"Nuhu Bashir",
+  "date":"11\/02\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":11,
+  "from":"Abdulhakeem Aminu",
+  "to":"Aminu Aliyu",
+  "date":"12\/02\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":12,
+  "from":"Hassana Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"13\/02\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":13,
+  "from":"Abdulrahman Aminu",
+  "to":"Lukman Aliyu",
+  "date":"14\/02\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":14,
+  "from":"Hauwa Bashir",
+  "to":"Rashidat Bashir",
+  "date":"15\/02\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":15,
+  "from":"Hauwa Bashir",
+  "to":"Hassana Aliyu",
+  "date":"16\/02\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":16,
+  "from":"Abdulhakeem Aminu",
+  "to":"Lukman Aliyu",
+  "date":"17\/02\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":17,
+  "from":"Hauwa Bashir",
+  "to":"Abdulhakeem Aminu",
+  "date":"18\/02\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":18,
+  "from":"Abdulrahman Aminu",
+  "to":"Aminu Aliyu",
+  "date":"19\/02\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":19,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hauwa Bashir",
+  "date":"20\/02\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":20,
+  "from":"Imran Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"21\/02\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":21,
+  "from":"Hassana Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"22\/02\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":22,
+  "from":"AbdulAzeez Aminu",
+  "to":"Lukman Aliyu",
+  "date":"23\/02\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":23,
+  "from":"Lukman Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"24\/02\/2023",
+  "location":"Kano",
+  "notes":"4h am"
+ },
+ {
+  "letter_num":24,
+  "from":"AbdulAzeez Aminu",
+  "to":"Imran Aliyu",
+  "date":"25\/02\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":25,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hauwa Bashir",
+  "date":"26\/02\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":26,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hassana Aliyu",
+  "date":"27\/02\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":27,
+  "from":"Rashidat Bashir",
+  "to":"Abdulrahman Aminu",
+  "date":"28\/02\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":28,
+  "from":"Hauwa Bashir",
+  "to":"Aminu Aliyu",
+  "date":"01\/03\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":29,
+  "from":"Lukman Aliyu",
+  "to":"Imran Aliyu",
+  "date":"02\/03\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":30,
+  "from":"Nuhu Bashir",
+  "to":"Hassana Aliyu",
+  "date":"03\/03\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":31,
+  "from":"Imran Aliyu",
+  "to":"Hassana Aliyu",
+  "date":"04\/03\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":32,
+  "from":"Abdulhakeem Aminu",
+  "to":"Lukman Aliyu",
+  "date":"05\/03\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":33,
+  "from":"Abdulhakeem Aminu",
+  "to":"Aminu Aliyu",
+  "date":"06\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":34,
+  "from":"Hassana Aliyu",
+  "to":"Imran Aliyu",
+  "date":"07\/03\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":35,
+  "from":"Abdulrahman Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"08\/03\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":36,
+  "from":"Rashidat Bashir",
+  "to":"AbdulAzeez Aminu",
+  "date":"09\/03\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":37,
+  "from":"Lukman Aliyu",
+  "to":"Hassana Aliyu",
+  "date":"10\/03\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":38,
+  "from":"Aminu Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"11\/03\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":39,
+  "from":"Aminu Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"12\/03\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":40,
+  "from":"Nuhu Bashir",
+  "to":"Hassana Aliyu",
+  "date":"13\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":41,
+  "from":"Abdulrahman Aminu",
+  "to":"Aminu Aliyu",
+  "date":"14\/03\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":42,
+  "from":"Abdulrahman Aminu",
+  "to":"Abdulhakeem Aminu",
+  "date":"15\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":"40-suite",
+  "from":"Abdulhakeem Aminu",
+  "to":"Hauwa Bashir",
+  "date":"16\/03\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":43,
+  "from":"Hassana Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"17\/03\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":44,
+  "from":"Abdulhakeem Aminu",
+  "to":"Lukman Aliyu",
+  "date":"18\/03\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":45,
+  "from":"Abdulrahman Aminu",
+  "to":"Abdulhakeem Aminu",
+  "date":"19\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":46,
+  "from":"Lukman Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"20\/03\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":47,
+  "from":"Hassana Aliyu",
+  "to":"Lukman Aliyu",
+  "date":"21\/03\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":48,
+  "from":"AbdulAzeez Aminu",
+  "to":"Imran Aliyu",
+  "date":"22\/03\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":49,
+  "from":"Nuhu Bashir",
+  "to":"Rashidat Bashir",
+  "date":"23\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":50,
+  "from":"AbdulAzeez Aminu",
+  "to":"Aminu Aliyu",
+  "date":"24\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":51,
+  "from":"Hassana Aliyu",
+  "to":"Nuhu Bashir",
+  "date":"25\/03\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":52,
+  "from":"Rashidat Bashir",
+  "to":"Lukman Aliyu",
+  "date":"26\/03\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":53,
+  "from":"AbdulAzeez Aminu",
+  "to":"Aminu Aliyu",
+  "date":"27\/03\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":54,
+  "from":"Hassana Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"28\/03\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":55,
+  "from":"Hauwa Bashir",
+  "to":"Aminu Aliyu",
+  "date":"29\/03\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":56,
+  "from":"Imran Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"30\/03\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":57,
+  "from":"Hauwa Bashir",
+  "to":"Rashidat Bashir",
+  "date":"31\/03\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":58,
+  "from":"Lukman Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"01\/04\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":59,
+  "from":"Rashidat Bashir",
+  "to":"Hauwa Bashir",
+  "date":"02\/04\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":60,
+  "from":"Rashidat Bashir",
+  "to":"Lukman Aliyu",
+  "date":"03\/04\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":61,
+  "from":"Hauwa Bashir",
+  "to":"Lukman Aliyu",
+  "date":"04\/04\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":62,
+  "from":"Rashidat Bashir",
+  "to":"Hassana Aliyu",
+  "date":"05\/04\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":63,
+  "from":"Abdulhakeem Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"06\/04\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":64,
+  "from":"Hauwa Bashir",
+  "to":"Abdulrahman Aminu",
+  "date":"07\/04\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":65,
+  "from":"Rashidat Bashir",
+  "to":"Hassana Aliyu",
+  "date":"08\/04\/2023",
+  "location":"Abuja",
+  "notes":"letter sent, opened, to Merteuil via Valmont in next letter"
+ },
+ {
+  "letter_num":66,
+  "from":"Imran Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"09\/04\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":67,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hauwa Bashir",
+  "date":"10\/04\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":68,
+  "from":"Imran Aliyu",
+  "to":"Nuhu Bashir",
+  "date":"11\/04\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":69,
+  "from":"Imran Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"12\/04\/2023",
+  "location":"Kano",
+  "notes":"letter oopied by Danceny"
+ },
+ {
+  "letter_num":70,
+  "from":"Nuhu Bashir",
+  "to":"Abdulhakeem Aminu",
+  "date":"13\/04\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":71,
+  "from":"Abdulhakeem Aminu",
+  "to":"Nuhu Bashir",
+  "date":"14\/04\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":72,
+  "from":"Aminu Aliyu",
+  "to":"Nuhu Bashir",
+  "date":"15\/04\/2023",
+  "location":"Kaduna",
+  "notes":"sent on the 14th"
+ },
+ {
+  "letter_num":73,
+  "from":"Aminu Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"16\/04\/2023",
+  "location":"Abuja",
+  "notes":"sent on the 14th in same letter as above"
+ },
+ {
+  "letter_num":74,
+  "from":"Nuhu Bashir",
+  "to":"Hassana Aliyu",
+  "date":"17\/04\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":75,
+  "from":"Rashidat Bashir",
+  "to":"AbdulAzeez Aminu",
+  "date":"18\/04\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":76,
+  "from":"Hassana Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"19\/04\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":77,
+  "from":"Lukman Aliyu",
+  "to":"Abdulhakeem Aminu",
+  "date":"20\/04\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":78,
+  "from":"Abdulhakeem Aminu",
+  "to":"Nuhu Bashir",
+  "date":"21\/04\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":79,
+  "from":"Hassana Aliyu",
+  "to":"Aminu Aliyu",
+  "date":"22\/04\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":80,
+  "from":"Abdulrahman Aminu",
+  "to":"Aminu Aliyu",
+  "date":"23\/04\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":81,
+  "from":"Abdulhakeem Aminu",
+  "to":"Imran Aliyu",
+  "date":"24\/04\/2023",
+  "location":"Lagos",
+  "notes":"Vaincre ou perir"
+ },
+ {
+  "letter_num":82,
+  "from":"AbdulAzeez Aminu",
+  "to":"Hauwa Bashir",
+  "date":"25\/04\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":83,
+  "from":"Lukman Aliyu",
+  "to":"Imran Aliyu",
+  "date":"26\/04\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":84,
+  "from":"AbdulAzeez Aminu",
+  "to":"Nuhu Bashir",
+  "date":"27\/04\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":85,
+  "from":"Lukman Aliyu",
+  "to":"Nuhu Bashir",
+  "date":"28\/04\/2023",
+  "location":"Dubai",
+  "notes":"au soir"
+ },
+ {
+  "letter_num":86,
+  "from":"Abdulhakeem Aminu",
+  "to":"Aminu Aliyu",
+  "date":"29\/04\/2023",
+  "location":"Abuja",
+  "notes":"letter included in previous"
+ },
+ {
+  "letter_num":87,
+  "from":"Lukman Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"30\/04\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":88,
+  "from":"Imran Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"01\/05\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":89,
+  "from":"Aminu Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"02\/05\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":90,
+  "from":"Hassana Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"03\/05\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":91,
+  "from":"Rashidat Bashir",
+  "to":"Abdulrahman Aminu",
+  "date":"04\/05\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":92,
+  "from":"Abdulhakeem Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"05\/05\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":93,
+  "from":"Nuhu Bashir",
+  "to":"Abdulhakeem Aminu",
+  "date":"06\/05\/2023",
+  "location":"Cairo",
+  "notes":"attached to preceding letter"
+ },
+ {
+  "letter_num":94,
+  "from":"Abdulhakeem Aminu",
+  "to":"Nuhu Bashir",
+  "date":"07\/05\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":95,
+  "from":"Hauwa Bashir",
+  "to":"Imran Aliyu",
+  "date":"08\/05\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":96,
+  "from":"Aminu Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"09\/05\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":97,
+  "from":"Hassana Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"10\/05\/2023",
+  "location":"Cairo",
+  "notes":"seduction of cecile"
+ },
+ {
+  "letter_num":98,
+  "from":"Abdulrahman Aminu",
+  "to":"Nuhu Bashir",
+  "date":"11\/05\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":99,
+  "from":"Lukman Aliyu",
+  "to":"Imran Aliyu",
+  "date":"12\/05\/2023",
+  "location":"Kano",
+  "notes":"au soir"
+ },
+ {
+  "letter_num":100,
+  "from":"Imran Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"13\/05\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":101,
+  "from":"Hauwa Bashir",
+  "to":"Imran Aliyu",
+  "date":"14\/05\/2023",
+  "location":"Abuja",
+  "notes":"attached to preceding letter"
+ },
+ {
+  "letter_num":102,
+  "from":"Nuhu Bashir",
+  "to":"Hauwa Bashir",
+  "date":"15\/05\/2023",
+  "location":"Kaduna",
+  "notes":"1h in the morning - departure of Tourvel"
+ },
+ {
+  "letter_num":103,
+  "from":"Hassana Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"16\/05\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":104,
+  "from":"Hauwa Bashir",
+  "to":"Hassana Aliyu",
+  "date":"17\/05\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":105,
+  "from":"Aminu Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"18\/05\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":106,
+  "from":"AbdulAzeez Aminu",
+  "to":"Abdulhakeem Aminu",
+  "date":"19\/05\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":107,
+  "from":"Nuhu Bashir",
+  "to":"Hassana Aliyu",
+  "date":"20\/05\/2023",
+  "location":"Lagos",
+  "notes":"11h pm"
+ },
+ {
+  "letter_num":108,
+  "from":"Abdulhakeem Aminu",
+  "to":"Rashidat Bashir",
+  "date":"21\/05\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":109,
+  "from":"Abdulhakeem Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"22\/05\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":110,
+  "from":"Imran Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"23\/05\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":111,
+  "from":"Rashidat Bashir",
+  "to":"Imran Aliyu",
+  "date":"24\/05\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":112,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hassana Aliyu",
+  "date":"25\/05\/2023",
+  "location":"Madina",
+  "notes":"dictated, signed Adelaide"
+ },
+ {
+  "letter_num":113,
+  "from":"Aminu Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"26\/05\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":114,
+  "from":"Nuhu Bashir",
+  "to":"Hassana Aliyu",
+  "date":"27\/05\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":115,
+  "from":"Abdulhakeem Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"28\/05\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":116,
+  "from":"Hassana Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"29\/05\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":117,
+  "from":"Abdulrahman Aminu",
+  "to":"Lukman Aliyu",
+  "date":"30\/05\/2023",
+  "location":"Dubai",
+  "notes":"dictated by Valmont"
+ },
+ {
+  "letter_num":118,
+  "from":"Aminu Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"31\/05\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":119,
+  "from":"Abdulrahman Aminu",
+  "to":"Abdulhakeem Aminu",
+  "date":"01\/06\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":120,
+  "from":"Hauwa Bashir",
+  "to":"Rashidat Bashir",
+  "date":"02\/06\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":121,
+  "from":"Aminu Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"03\/06\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":122,
+  "from":"Rashidat Bashir",
+  "to":"Nuhu Bashir",
+  "date":"04\/06\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":123,
+  "from":"AbdulAzeez Aminu",
+  "to":"Aminu Aliyu",
+  "date":"05\/06\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":124,
+  "from":"Abdulrahman Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"06\/06\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":125,
+  "from":"Abdulrahman Aminu",
+  "to":"Abdulhakeem Aminu",
+  "date":"07\/06\/2023",
+  "location":"Abuja",
+  "notes":"success of Valmont w\/ Tourvel"
+ },
+ {
+  "letter_num":126,
+  "from":"Abdulrahman Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"08\/06\/2023",
+  "location":"Dubai",
+  "notes":null
+ },
+ {
+  "letter_num":127,
+  "from":"Nuhu Bashir",
+  "to":"Abdulrahman Aminu",
+  "date":"09\/06\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":128,
+  "from":"AbdulAzeez Aminu",
+  "to":"Rashidat Bashir",
+  "date":"10\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":129,
+  "from":"AbdulAzeez Aminu",
+  "to":"Nuhu Bashir",
+  "date":"11\/06\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":130,
+  "from":"Aminu Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"12\/06\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":131,
+  "from":"Hauwa Bashir",
+  "to":"Rashidat Bashir",
+  "date":"13\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":132,
+  "from":"Lukman Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"14\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":133,
+  "from":"Hassana Aliyu",
+  "to":"Rashidat Bashir",
+  "date":"15\/06\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":134,
+  "from":"Rashidat Bashir",
+  "to":"Hauwa Bashir",
+  "date":"16\/06\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":135,
+  "from":"Imran Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"17\/06\/2023",
+  "location":"Riyadh",
+  "notes":"valmont w\/ prostitute"
+ },
+ {
+  "letter_num":136,
+  "from":"AbdulAzeez Aminu",
+  "to":"Rashidat Bashir",
+  "date":"18\/06\/2023",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":137,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hauwa Bashir",
+  "date":"19\/06\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":138,
+  "from":"Imran Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"20\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":139,
+  "from":"AbdulAzeez Aminu",
+  "to":"Rashidat Bashir",
+  "date":"21\/06\/2023",
+  "location":"Lagos",
+  "notes":"au soir"
+ },
+ {
+  "letter_num":140,
+  "from":"Imran Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"22\/06\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":141,
+  "from":"Abdulrahman Aminu",
+  "to":"Aminu Aliyu",
+  "date":"23\/06\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":142,
+  "from":"Rashidat Bashir",
+  "to":"Nuhu Bashir",
+  "date":"24\/06\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":143,
+  "from":"Nuhu Bashir",
+  "to":"Hauwa Bashir",
+  "date":"25\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":144,
+  "from":"Abdulhakeem Aminu",
+  "to":"Rashidat Bashir",
+  "date":"26\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":145,
+  "from":"Abdulhakeem Aminu",
+  "to":"Hauwa Bashir",
+  "date":"27\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":146,
+  "from":"Abdulhakeem Aminu",
+  "to":"Rashidat Bashir",
+  "date":"28\/06\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":147,
+  "from":"Lukman Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"29\/06\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":148,
+  "from":"Lukman Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"30\/06\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":149,
+  "from":"AbdulAzeez Aminu",
+  "to":"Abdulhakeem Aminu",
+  "date":"01\/07\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":150,
+  "from":"AbdulAzeez Aminu",
+  "to":"Hassana Aliyu",
+  "date":"02\/07\/2023",
+  "location":"Madina",
+  "notes":null
+ },
+ {
+  "letter_num":151,
+  "from":"Hauwa Bashir",
+  "to":"Abdulhakeem Aminu",
+  "date":"03\/07\/2023",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":152,
+  "from":"Lukman Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"04\/07\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":153,
+  "from":"Hauwa Bashir",
+  "to":"AbdulAzeez Aminu",
+  "date":"05\/07\/2023",
+  "location":"Lagos",
+  "notes":"at the bottom, mme de M write 'eh bien, la guerre'"
+ },
+ {
+  "letter_num":154,
+  "from":"Abdulhakeem Aminu",
+  "to":"Aminu Aliyu",
+  "date":"06\/07\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":155,
+  "from":"AbdulAzeez Aminu",
+  "to":"Imran Aliyu",
+  "date":"07\/07\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":156,
+  "from":"Hassana Aliyu",
+  "to":"Lukman Aliyu",
+  "date":"08\/07\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":157,
+  "from":"Hassana Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"09\/07\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":158,
+  "from":"Nuhu Bashir",
+  "to":"Rashidat Bashir",
+  "date":"10\/07\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":159,
+  "from":"Abdulhakeem Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"11\/07\/2023",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":160,
+  "from":"Hauwa Bashir",
+  "to":"Imran Aliyu",
+  "date":"12\/07\/2023",
+  "location":"Zaria",
+  "notes":null
+ },
+ {
+  "letter_num":161,
+  "from":"Rashidat Bashir",
+  "to":"Hauwa Bashir",
+  "date":"13\/07\/2023",
+  "location":"Kano",
+  "notes":"dictated to her maid"
+ },
+ {
+  "letter_num":162,
+  "from":"Hassana Aliyu",
+  "to":"Abdulrahman Aminu",
+  "date":"14\/07\/2023",
+  "location":"Kano",
+  "notes":"duel challenge"
+ },
+ {
+  "letter_num":163,
+  "from":"Nuhu Bashir",
+  "to":"AbdulAzeez Aminu",
+  "date":"15\/07\/2023",
+  "location":"Madina",
+  "notes":"death of Valmont"
+ },
+ {
+  "letter_num":164,
+  "from":"Hassana Aliyu",
+  "to":"Lukman Aliyu",
+  "date":"16\/07\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":165,
+  "from":"Hassana Aliyu",
+  "to":"AbdulAzeez Aminu",
+  "date":"17\/07\/2023",
+  "location":"Lagos",
+  "notes":"death of Presidente"
+ },
+ {
+  "letter_num":166,
+  "from":"Abdulrahman Aminu",
+  "to":"Lukman Aliyu",
+  "date":"18\/07\/2023",
+  "location":"Jeddah",
+  "notes":null
+ },
+ {
+  "letter_num":167,
+  "from":"Imran Aliyu",
+  "to":"Hassana Aliyu",
+  "date":"19\/07\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":168,
+  "from":"Nuhu Bashir",
+  "to":"Imran Aliyu",
+  "date":"20\/07\/2023",
+  "location":"Kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":169,
+  "from":"Lukman Aliyu",
+  "to":"Abdulhakeem Aminu",
+  "date":"21\/07\/2023",
+  "location":"Cairo",
+  "notes":"revelation of letters"
+ },
+ {
+  "letter_num":170,
+  "from":"Lukman Aliyu",
+  "to":"Nuhu Bashir",
+  "date":"22\/07\/2023",
+  "location":"Abuja",
+  "notes":"plan to send cecile back to convent"
+ },
+ {
+  "letter_num":171,
+  "from":"Rashidat Bashir",
+  "to":"Hassana Aliyu",
+  "date":"23\/07\/2023",
+  "location":"Lagos",
+  "notes":"drop charges"
+ },
+ {
+  "letter_num":172,
+  "from":"AbdulAzeez Aminu",
+  "to":"Hauwa Bashir",
+  "date":"24\/07\/2023",
+  "location":"Cairo",
+  "notes":null
+ },
+ {
+  "letter_num":173,
+  "from":"Abdulhakeem Aminu",
+  "to":"AbdulAzeez Aminu",
+  "date":"25\/07\/2023",
+  "location":"Kaduna",
+  "notes":"booing, fever of Merteuil"
+ },
+ {
+  "letter_num":174,
+  "from":"Hassana Aliyu",
+  "to":"Hauwa Bashir",
+  "date":"26\/07\/2023",
+  "location":"Riyadh",
+  "notes":null
+ },
+ {
+  "letter_num":175,
+  "from":"AbdulAzeez Aminu",
+  "to":"Nuhu Bashir",
+  "date":"27\/07\/2023",
+  "location":"Jeddah",
+  "notes":"downfall of Merteuil"
+ }
+]
