@@ -1,4 +1,4 @@
-# Family Social Network Visualization project
+# Family Social Network Visualization Project
 
 To get started, you need to ensure that you have NPM and Node running on your machine. Install the dependencies (npm install) and then run the project locally (npm run serve):
 
