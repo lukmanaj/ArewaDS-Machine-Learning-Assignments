@@ -10,7 +10,7 @@ The breakdown of the concepts covered by week is as follows:
 |3|[Data Visualization](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_03)|
 |4|[Regression](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_04)|
 |5|[Classification](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_05)|
-|6|Clustering|
+|6|[Clustering](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_06)|
 |7|Natural Language Processing|
 |8|Sentiment Analysis|
 |9|Time Series Forecasting|
