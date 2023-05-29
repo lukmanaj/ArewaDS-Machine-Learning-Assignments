@@ -16,4 +16,4 @@ The breakdown of the concepts covered by week is as follows:
 |9|Time Series Forecasting|
 |10|Reinforcement Learning|
 
-It will then culminate in a real-world project based on a fellow's area of interest before proceeding to the deep learning stage. 
+It will then culminate in a real-world project based on a fellow's area of interest before proceeding to the deep learning stage.
