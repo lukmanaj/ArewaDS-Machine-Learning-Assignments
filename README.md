@@ -13,7 +13,7 @@ The breakdown of the concepts covered by week is as follows:
 |6|[Clustering](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_06_Clustering)|
 |7|[Natural Language Processing](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_07_Natural_Language_Processing)|
 |8|[Sentiment Analysis](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_08_Sentiment_Analysis)|
-|9|Time Series Forecasting|
+|9|[Time Series Forecasting](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_09_Time_Series)|
 |10|Reinforcement Learning|
 
 It will then culminate in a real-world project based on a fellow's area of interest before proceeding to the deep learning stage.
