@@ -1,5 +1,7 @@
 # Introduction to Machine Learning
 
+This is an overview of the concepts covered in the first week of our machine learning journey.
+
 The introduction to machine learning week was structured into four.Introduction covered setting up the working environment (python installation and conda environment) which has already been covered in our 30 Days of Python phase of the fellowship. In addition, the relationship between Machine Learning, Deep Learning, Artificial Intelligence and Data Science was explored too.
 Applications of machine learning were also discussed some of which include:
 
