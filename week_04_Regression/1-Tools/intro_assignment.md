@@ -54,7 +54,7 @@ y = y[:,np.newaxix,1]
 
 ```
 
-So we have the following combinations:
+In total, the following combinations are possible:
 
 - Weight - Chins
 - Weight - Situps
