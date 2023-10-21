@@ -17,4 +17,4 @@ The breakdown of the concepts covered alongside assignment attempts, arranged by
 |9|[Time Series Forecasting](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_09_Time_Series)|
 |10|[Reinforcement Learning](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_10_Reinforcement_Learning)|
 
-It will culminate in a real-world project based on a fellow's area of interest before proceeding to the deep learning stage.
+
