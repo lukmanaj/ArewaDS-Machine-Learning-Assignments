@@ -2,7 +2,7 @@
 
 This repository contains the assignments in the Arewa Data Science Machine Learning curriculum (first cohort). The Machine Learning stage of the Arewa Data Science Academy fellowship is a ten-week program designed to develop practical machine learning skills for the fellows. The repo containing the course content can be found [here](<https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience>).
 
-The breakdown of the concepts covered, alongside my humble assignment attempts, is as follows:
+The breakdown of the concepts covered, alongside my assignment attempts, is as follows:
 
 |Week|Content Covered|
 |---|---|
